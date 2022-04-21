@@ -4,4 +4,4 @@
 
 [![Build-Linux](https://github.com/19wh5a0202-Ujwala/M2_DoorLockingSystem/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M2_DoorLockingSystem/actions/workflows/Build-Linux.yml)
 
-
+[![Build-Linux](https://github.com/19wh5a0202-Ujwala/M2_DoorLockingSystem/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M2_DoorLockingSystem/actions/workflows/Build-Linux.yml)
