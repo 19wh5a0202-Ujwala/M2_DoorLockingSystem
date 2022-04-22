@@ -29,11 +29,11 @@
    
    ![servo](https://user-images.githubusercontent.com/87614111/157076797-eec46659-978d-42c3-b374-0491f493c952.JPG)
 
-## Arduino Uno
+## ATMEGA328
 
-This microcontroller depends on the ATmega328P. There are all out of 20 pins (0-19) out of which 6 are simple information sources, 14 are computerized input yield pins(6 pins give PWM voltage) which can like be utilized as broadly useful pins, a ceramic resonator of recurrence 16 MHz, a USB association, a force jack and a reset button. It has a working voltage of 5V. It contains all that expected to help a microcontroller.
+The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR family (later Microchip Technology acquired Atmel in 2016). It has a modified Harvard architecture 8-bit RISC processor core
 
-![arduinouno](https://user-images.githubusercontent.com/87614111/157077002-6e63af0e-7fee-4f58-b9cc-4fd88879841a.JPG)
+![ATMEGA328](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1588016733335-7ZOR1BWRNA4HGRXYB0VM/atmega328p_pu_pinout_legend.png?format=2500w)
 
 
 
