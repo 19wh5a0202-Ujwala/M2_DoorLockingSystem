@@ -1,1 +1,1 @@
-![servo (3)](https://user-images.githubusercontent.com/87614111/157225104-edf74da2-f939-4640-83fc-529b91dbf432.jpg)
+![servo (3)](https://imagehost9.online-image-editor.com/oie_upload/images/2225845K7NG1D/svQ5PfsC7sxC.png)
