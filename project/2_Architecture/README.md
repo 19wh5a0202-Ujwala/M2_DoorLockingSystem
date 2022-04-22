@@ -1,33 +1,9 @@
 ## BLOCK DIAGRAM
 
 
-![servo (3)](https://user-images.githubusercontent.com/87614111/157225104-edf74da2-f939-4640-83fc-529b91dbf432.jpg)
+![servo (3)](https://imagehost9.online-image-editor.com/oie_upload/images/2225845K7NG1D/svQ5PfsC7sxC.png)
 
 
-## Sensor
-#  4x4 Matrix Keypad
-  The 4x4 Matrix Keypad interfaced is to take the input from the person. We can enter the preset password to test the validity of the password. If the password is valid then,     the door lock will be unlocked. If invalid, the door lock will continue to be locked. The 4x4 Matrix Keypad includes 4 rows and 4 columns. There is a transfer that connects     every row and column. In our project We will use only the numeric between 0-9 keys along with * to change the password.
-  
-   ![keypad](https://user-images.githubusercontent.com/87614111/157076734-c5e28aa1-9e9c-4b62-aaea-bbbedd9f094a.JPG)
-
-# ACTUATOR
-
-## LCD Display:
-
-  Displays each and every value we enter in our keypad.
-    
-   
-   
-   
-   
-   
-   ![lcd](https://user-images.githubusercontent.com/87614111/157076750-5294ecba-2065-455d-9bda-bd6d1d4ce533.JPG) 
-    
- ## Servo Motor:
- 
-   Helps in opening and closing our doors.
-   
-   ![servo](https://user-images.githubusercontent.com/87614111/157076797-eec46659-978d-42c3-b374-0491f493c952.JPG)
 
 ## ATMEGA328
 
@@ -44,7 +20,7 @@ The ATmega328 is a single-chip microcontroller created by Atmel in the megaAVR f
 
 ## Complete Simulation  connection of circuit
 
-![simulation connection](https://user-images.githubusercontent.com/87614111/157002492-d1710885-ebf1-4676-8822-ef5d2e24c61e.JPG)
+![simulation connection](https://imagehost9.online-image-editor.com/oie_upload/images/OIE_2019NOV_61795195_49110479/22508QcW39ns4.png)
 
 
 
